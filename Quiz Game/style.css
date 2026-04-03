@@ -38,8 +38,6 @@ body{
     display: block;
 }
 
-
-
 /* START SCREEN  */
 
 #start-screen h1 {
@@ -187,7 +185,6 @@ button:hover{
         padding: 12px 25px;
         font-size: 1rem;
     }
-
 
 }
 
