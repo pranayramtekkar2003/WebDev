@@ -9,3 +9,6 @@
 ### Project 3: Color Palette Generator
 
 ### Project 4: Bookmark Saver
+
+### Project 5: Expense Tracker
+#### In-progress: UI completed. Need to add the functionality
