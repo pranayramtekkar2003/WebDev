@@ -14,4 +14,8 @@
 
 ### Project 6: Form Validator
 
-### Custom 404 Page 
+### Project 7: Github Finder
+
+### Design 1: Custom 404 Page 
+
+### Desgin 2: Newsletter Signup
