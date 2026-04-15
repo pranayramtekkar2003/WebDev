@@ -237,6 +237,7 @@ button:hover{
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px,1fr));
     gap: 15px;
+    perspective: 1000px;
 }
 
 .repo-card{
@@ -245,6 +246,10 @@ button:hover{
     padding: 15px;
     border: 1px solid rgba(255, 255, 255, 0.05);
     transition: transform 0.2s, background-color 0.2s;
+}
+
+.repo-card:hover{
+    transform: translateZ(30px);
 }
 
 .repo-name{
