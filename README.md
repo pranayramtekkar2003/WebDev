@@ -16,6 +16,8 @@
 
 ### Project 7: Github Finder
 
+### Project 8: ToDo App
+
 ### Design 1: Custom 404 Page 
 
 ### Desgin 2: Newsletter Signup
